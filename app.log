@@ -1,0 +1,7 @@
+2026-10-12 09:00:01 INFO Application started
+2026-10-12 09:01:15 WARNING Disk space is getting low
+2026-10-12 09:02:30 ERROR Could not connect to the database
+2026-10-12 09:03:05 DEBUG Retrying database connection
+2026-10-12 09:03:10 INFO Database connection restored
+2026-10-12 09:04:22 ERROR Request timed out
+2026-10-12 09:05:00 WARNING Slow response from the payment service
